@@ -1,492 +1,760 @@
-# 🎓 CareerPath SL
-### Agentic AI Career Roadmap & Skill Gap Analyzer for IT Undergraduates
+# 🎓 CareerPath SL  
+## AI-Powered Agentic Career Roadmap & Skill Gap Analyzer for IT Undergraduates
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorDB-purple)
-![Groq](https://img.shields.io/badge/Groq-LLM-orange)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM-blue)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-green.svg)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-orange.svg)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Database-purple.svg)
+![Groq](https://img.shields.io/badge/Groq-LLM-yellow.svg)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM-blue.svg)
+
+<br>
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://careerpathsl-dkgbdhvyu9izgdpw7pbxmt.streamlit.app/)
+
+</div>
+
+
+## 🚀 Live Demo
+
+🌐 **CareerPath SL Web Application**
+
+https://careerpathsl-dkgbdhvyu9izgdpw7pbxmt.streamlit.app/
+
 
 ---
 
 # 📖 Project Overview
 
-CareerPath SL is an **Agentic AI-powered career guidance system** designed for Sri Lankan IT undergraduates.
+**CareerPath SL** is an Agentic AI-powered career mentoring system designed specifically for Sri Lankan IT undergraduates.
 
-The system analyzes a student's interests, skills, and career goals, identifies skill gaps, and generates a personalized learning roadmap. It uses multiple AI agents together with Retrieval-Augmented Generation (RAG) to provide accurate and context-aware career guidance.
+The system helps students identify suitable IT career paths, analyze their current skills, discover skill gaps, and generate personalized learning roadmaps.
+
+The application uses:
+
+- Multi-Agent AI Architecture
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- LangGraph
+- ChromaDB
+- Sentence Transformer Embeddings
+- Groq LLM
+- OpenRouter LLM
+
+to provide intelligent and context-aware career guidance.
+
 
 ---
 
 # ❗ Problem Statement
 
-Many IT students struggle to:
+Many IT undergraduates face difficulties when planning their technology careers.
 
-- Choose the right IT career path
-- Understand industry skill requirements
-- Identify missing technical skills
-- Prepare for internships and interviews
-- Build resumes and GitHub portfolios
+Common challenges include:
 
-CareerPath SL solves these problems by providing AI-powered personalized career guidance.
+- Selecting the correct IT career path.
+- Understanding required industry skills.
+- Identifying personal skill gaps.
+- Preparing for internships.
+- Improving technical portfolios.
+- Preparing for interviews.
+
+Most existing career guidance platforms provide generic advice and do not consider the student's current skills and goals.
+
+CareerPath SL addresses this problem by providing personalized AI-based career recommendations using Agentic AI and RAG.
+
 
 ---
 
-# 🎯 Objectives
+# 🎯 Project Objectives
 
-- Recommend suitable IT career paths
-- Analyze skill gaps
-- Generate personalized learning roadmaps
-- Recommend certifications
-- Provide interview preparation guidance
-- Help students improve resumes and GitHub portfolios
-- Support internship preparation
+The main objectives of CareerPath SL are:
+
+- Recommend suitable IT career paths.
+- Analyze student's existing skills.
+- Identify technical skill gaps.
+- Generate personalized learning roadmaps.
+- Recommend certifications.
+- Provide internship preparation guidance.
+- Improve resume and GitHub portfolios.
+- Support interview preparation.
+
 
 ---
 
 # ✨ Key Features
 
-- 🤖 Multi-Agent AI Architecture
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🔍 Skill Gap Analysis
-- 🛣️ Personalized Career Roadmaps
-- 📄 Resume Guidance
-- 💻 GitHub Portfolio Suggestions
-- 🎤 Interview Preparation
-- 🎓 Certification Recommendations
-- 💼 Internship Guidance
-- 🌐 Streamlit Web Interface
+## 🤖 Agentic AI Career Assistant
 
----
+The system contains multiple intelligent agents that collaborate to solve user requests.
 
-# 🤖 AI Agents
 
-## Router Agent
+## 🔀 Router Agent
 
-Responsibilities
+Automatically identifies the user's intention.
 
-- Detect user intent
-- Route queries to the correct agent
+Examples:
 
-Example
+- Career roadmap request
+- Skill analysis
+- Internship advice
+- Interview preparation
+- Certification recommendation
 
-```
-User:
-I want to become an AI Engineer
 
-↓
+## 🧠 Planner Agent
 
-Intent:
-career_roadmap
-```
+Creates personalized career strategies by:
 
----
+- Retrieving knowledge from documents.
+- Understanding user goals.
+- Generating step-by-step roadmaps.
 
-## Planner Agent
 
-Responsibilities
+## 📚 RAG Retrieval Agent
 
-- Retrieve relevant documents
-- Generate career roadmap
-- Recommend learning path
+Retrieves relevant information from the CareerPath knowledge base using ChromaDB.
 
----
 
-## RAG Retrieval Agent
+## 🧐 Reflection / Critic Agent
 
-Responsibilities
+Reviews generated responses and improves:
 
-- Search ChromaDB
-- Retrieve relevant documents
-- Provide context to Planner Agent
+- Accuracy
+- Completeness
+- Career relevance
+- Recommendation quality
 
----
-
-## Critic Agent
-
-Responsibilities
-
-- Review AI response
-- Improve clarity
-- Ensure recommendations are complete
 
 ---
 
 # 🏗 System Architecture
 
+
 ```
-          User
-            │
-            ▼
-     Router Agent
-            │
-            ▼
-    Planner Agent
-            │
-            ▼
-      RAG Retriever
-            │
-            ▼
-        ChromaDB
-            │
-            ▼
-     Critic Agent
-            │
-            ▼
-      Final Response
+                    User
+                      |
+                      |
+                      v
+
+              Router Agent
+          (Intent Classification)
+
+                      |
+                      |
+
+              Planner Agent
+       (Career Roadmap Generation)
+
+                      |
+                      |
+
+             RAG Retrieval Agent
+
+                      |
+                      |
+
+                ChromaDB
+          (Career Knowledge Base)
+
+                      |
+                      |
+
+              Critic Agent
+        (Response Evaluation)
+
+                      |
+                      |
+
+             Final AI Response
+
 ```
+
 
 ---
 
 # 🔄 Agent Communication
 
+Agents communicate using structured messages.
+
+Example:
+
+
 ```
 User Query
-      │
-      ▼
+
+        |
+
+        v
+
 Router Agent
 
-{
-  "intent":"career_roadmap"
-}
-
-      │
-      ▼
-
-Planner Agent
 
 {
+ "intent":"career_roadmap",
  "career":"AI Engineer"
 }
 
-      │
-      ▼
 
-Retriever
+        |
 
-↓
+        v
 
-Relevant Documents
-
-↓
-
-Critic Agent
-
-↓
-
-Final Career Plan
-```
-
----
-
-# 📚 RAG Pipeline
-
-```
-Knowledge Base
-
-↓
-
-Text Loader
-
-↓
-
-Text Splitter
-
-↓
-
-Embeddings
-
-↓
-
-ChromaDB
-
-↓
-
-Retriever
-
-↓
 
 Planner Agent
 
-↓
+
+{
+ "required_skills":[
+ "Python",
+ "Machine Learning",
+ "Deep Learning"
+ ]
+}
+
+
+        |
+
+        v
+
+
+Critic Agent
+
+
+{
+ "feedback":
+ "Add certification recommendations"
+}
+
+
+        |
+
+        v
+
 
 Final Response
+
 ```
+
+
+---
+
+# 📚 Retrieval-Augmented Generation (RAG)
+
+
+CareerPath SL uses RAG to provide accurate career recommendations.
+
+Pipeline:
+
+
+```
+Career Documents
+
+        |
+
+        v
+
+Document Loader
+
+        |
+
+        v
+
+Text Splitting
+
+        |
+
+        v
+
+Sentence Transformer Embeddings
+
+        |
+
+        v
+
+ChromaDB Vector Store
+
+        |
+
+        v
+
+Retriever
+
+        |
+
+        v
+
+AI Agent Response
+
+```
+
 
 ---
 
 # 🧠 Knowledge Base
 
-The system contains **20 domain-specific documents** including:
+The system contains more than **20 domain-specific documents**.
 
-- Software Engineer
-- Full Stack Developer
-- Frontend Developer
-- Backend Developer
-- Mobile App Developer
-- AI Engineer
-- Machine Learning Engineer
-- Data Scientist
-- Cyber Security Analyst
-- Cloud Engineer
-- DevOps Engineer
-- QA Engineer
-- Business Analyst
-- ERP Consultant
-- Resume Guide
-- GitHub Portfolio Guide
-- Interview Preparation
-- Certification Guide
-- Internship Guide
-- Soft Skills for IT
+Knowledge areas:
+
+
+```
+software_engineer.txt
+
+full_stack_developer.txt
+
+frontend_developer.txt
+
+backend_developer.txt
+
+mobile_app_developer.txt
+
+ai_engineer.txt
+
+machine_learning_engineer.txt
+
+data_scientist.txt
+
+cyber_security_analyst.txt
+
+cloud_engineer.txt
+
+devops_engineer.txt
+
+qa_engineer.txt
+
+business_analyst.txt
+
+erp_consultant.txt
+
+resume_writing_guide.txt
+
+github_portfolio_guide.txt
+
+interview_preparation.txt
+
+certifications_guide.txt
+
+internship_guide.txt
+
+soft_skills_for_it.txt
+
+```
+
 
 ---
 
 # 🤖 Model Selection
 
-| Task | Model |
-|-------|-------|
-| Router Agent | Groq Llama 3.1 8B Instant |
-| Reflection | Groq Llama 3.1 8B Instant |
-| Planning | OpenRouter (DeepSeek / Gemini / Llama) |
-| Final Career Plan | OpenRouter |
+
+| Purpose | Provider | Model |
+|---|---|---|
+| Intent Classification | Groq | Llama-3.1-8B-Instant |
+| Reflection Agent | Groq | Llama-3.1-8B-Instant |
+| Career Planning | OpenRouter | DeepSeek / Gemini / Llama |
+| Final Response Generation | OpenRouter | Reasoning Model |
+
+
+### Why Two Models?
+
+## Groq
+
+Advantages:
+
+- Very fast response time.
+- Low latency.
+- Suitable for classification tasks.
+
+
+Used for:
+
+- Router Agent
+- Reflection Agent
+
+
+## OpenRouter
+
+Advantages:
+
+- Access to powerful reasoning models.
+- Better long-form generation.
+
+Used for:
+
+- Career roadmap generation.
+- Final recommendations.
+
 
 ---
 
 # 🛠 Technology Stack
 
-### Frontend
+
+## Programming Language
+
+- Python 3.10+
+
+
+## Frontend
 
 - Streamlit
 
-### Backend
 
-- Python
-
-### AI Framework
+## AI Framework
 
 - LangChain
 - LangGraph
 
-### Vector Database
+
+## Vector Database
 
 - ChromaDB
 
-### Embedding Model
 
-- sentence-transformers/all-MiniLM-L6-v2
+## Embedding Model
 
-### LLM Providers
+```
+sentence-transformers/all-MiniLM-L6-v2
+```
+
+
+## LLM Providers
 
 - Groq
 - OpenRouter
+
+
+## Environment Management
+
+- python-dotenv
+
 
 ---
 
 # 📂 Project Structure
 
+
 ```
 CareerPath_SL/
 
+│
 ├── agents/
+│
 │   ├── router_agent.py
 │   ├── planner_agent.py
-│   ├── critic_agent.py
+│   └── critic_agent.py
+│
 │
 ├── rag/
+│
 │   ├── ingest.py
-│   ├── retriever.py
+│   └── retriever.py
+│
 │
 ├── utils/
+│
 │   └── llm.py
 │
+│
 ├── data/
-│   ├── 20 TXT knowledge files
+│
+│   └── career knowledge documents
+│
 │
 ├── chroma_db/
 │
+│
 ├── app.py
+│
 ├── requirements.txt
+│
 ├── .env
-├── README.md
+│
+└── README.md
+
 ```
+
 
 ---
 
-# ⚙ Installation
+# ⚙ Installation Guide
 
-Clone repository
+
+## 1. Clone Repository
+
 
 ```bash
-git clone https://github.com/imashidilshani/Career_Path_SL
+git clone https://github.com/yourusername/CareerPath_SL.git
 ```
 
-Go into project
+
+Move into project folder:
+
 
 ```bash
 cd CareerPath_SL
 ```
 
-Create virtual environment
 
-Windows
+---
+
+## 2. Create Virtual Environment
+
+
+Windows:
+
 
 ```bash
 python -m venv venv
-```
 
-Activate
-
-```bash
 venv\Scripts\activate
 ```
 
-Install packages
+
+Linux/Mac:
+
+
+```bash
+python3 -m venv venv
+
+source venv/bin/activate
+```
+
+
+---
+
+## 3. Install Dependencies
+
 
 ```bash
 pip install -r requirements.txt
 ```
 
+
 ---
 
 # 🔑 Environment Variables
 
-Create a `.env` file.
+
+Create a file:
 
 ```
+.env
+```
+
+
+Add:
+
+
+```env
 GROQ_API_KEY=your_groq_api_key
 
 OPENROUTER_API_KEY=your_openrouter_api_key
 ```
 
+
 ---
 
-# ▶ Running the Project
+# ▶ Run Application
 
-Create vector database
+
+## Create Vector Database
+
 
 ```bash
 python rag/ingest.py
 ```
 
-Run Streamlit
+
+## Start Streamlit
+
 
 ```bash
 streamlit run app.py
 ```
 
+
+Application opens:
+
+
+```
+http://localhost:8501
+```
+
+
 ---
 
-# 🖥 Streamlit Features
+# 🖥 Streamlit Application Features
 
-- Career Selection
-- Skill Analysis
-- Chat Interface
-- Career Roadmap
-- Skill Gap Report
-- Retrieved Documents
-- Reflection Output
+
+The user interface provides:
+
+
+### Student Profile
+
+- Academic year
+- Current skills
+- Career interests
+
+
+### AI Career Chat
+
+Users can ask:
+
+- Career questions
+- Skill questions
+- Internship questions
+
+
+### Generated Output
+
+Provides:
+
+- Career roadmap
+- Missing skills
+- Learning resources
+- Certifications
+- Internship guidance
+
 
 ---
 
 # 🧪 Testing
 
-Test the application using questions such as:
 
-- I want to become an AI Engineer.
-- Recommend cloud certifications.
-- Analyze my skills.
-- Help me prepare for interviews.
-- Improve my resume.
-- Suggest internship preparation.
+Example test queries:
 
-Expected Result
 
-- Correct routing
-- Relevant document retrieval
-- Personalized roadmap
-- Skill gap analysis
+```
+I want to become a Machine Learning Engineer.
+
+```
+
+
+Expected:
+
+
+- Router detects AI career intent.
+- Retriever finds AI documents.
+- Planner generates roadmap.
+- Critic improves response.
+
+
+Other tests:
+
+
+```
+Recommend cloud certifications.
+
+Help me prepare for software engineering internship.
+
+Analyze my programming skills.
+
+```
+
 
 ---
 
-# 📊 Assignment Requirements Covered
+# ✅ Assignment Requirement Coverage
 
-✅ Agentic AI
 
-✅ Multi-Agent Architecture
+| Requirement | Status |
+|-|-|
+| Agentic AI Application | ✅ |
+| Multi-Agent Architecture | ✅ |
+| Router Pattern | ✅ |
+| Planning Pattern | ✅ |
+| Reflection Pattern | ✅ |
+| Agent Communication | ✅ |
+| RAG System | ✅ |
+| LangChain | ✅ |
+| LangGraph | ✅ |
+| ChromaDB | ✅ |
+| Groq API | ✅ |
+| OpenRouter API | ✅ |
+| 20+ Documents | ✅ |
+| Streamlit Deployment | ✅ |
 
-✅ Router Pattern
-
-✅ Planning Pattern
-
-✅ Reflection Pattern
-
-✅ RAG
-
-✅ LangChain
-
-✅ LangGraph
-
-✅ ChromaDB
-
-✅ Streamlit
-
-✅ Groq
-
-✅ OpenRouter
-
-✅ 20+ Knowledge Documents
 
 ---
 
 # 🚀 Deployment
 
-Deploy using:
 
-- GitHub
-- Streamlit Community Cloud
+The application is deployed using:
 
-Required Secrets
+**Streamlit Community Cloud**
 
-```
-GROQ_API_KEY
 
-OPENROUTER_API_KEY
-```
+Live URL:
+
+
+https://careerpathsl-dkgbdhvyu9izgdpw7pbxmt.streamlit.app/
+
+
+Deployment steps:
+
+
+1. Push project to GitHub.
+
+2. Connect repository with Streamlit Cloud.
+
+3. Add API keys under Secrets.
+
+4. Deploy application.
+
 
 ---
 
 # ⚠ Limitations
 
-- Depends on available knowledge base
-- Requires internet connection
-- Does not access live job vacancies
-- Limited to supported career domains
+
+- Depends on available knowledge documents.
+- No real-time job vacancy integration.
+- Requires internet access for LLM APIs.
+- Recommendations depend on retrieved information.
+
 
 ---
 
 # 🔮 Future Improvements
 
-- CV Upload Analysis
-- LinkedIn Profile Analysis
-- Live Job Recommendations
-- Voice Assistant
-- PDF Report Generation
-- Personalized Learning Dashboard
+
+Possible improvements:
+
+
+- Resume PDF analysis.
+- LinkedIn profile analysis.
+- Real-time job recommendations.
+- AI career assessment quiz.
+- Voice assistant.
+- Personalized learning dashboard.
+- Course recommendation system.
+
 
 ---
 
 # 👩‍💻 Author
 
+
 **H.M. Imashi Dilshani**
 
-BSc (Hons) in Information Technology
+BSc (Hons) Information Technology
 
 Horizon Campus
 
----
 
+---
 
 # 📄 License
 
-This project was developed for academic purposes as part of the **IT41043 – Intelligent Systems (Agentic AI)** module.
+
+This project was developed for academic purposes as part of:
+
+**IT41043 – Intelligent Systems (Agentic AI)**
+
+
+© 2026 H.M. Imashi Dilshani
