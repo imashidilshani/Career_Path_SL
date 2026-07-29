@@ -7,7 +7,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils.llm import get_critic_llm
 from agents.schemas import AgentMessage
 
-def review_plan(planner_message: AgentMessage) -> AgentMessage:
+def review_and_refine_plan(planner_message: AgentMessage) -> AgentMessage:
     draft_plan = planner_message.payload.get("draft_plan")
     user_query = planner_message.payload.get("query")
     context = planner_message.payload.get("retrieved_context")
@@ -32,3 +32,6 @@ Provide an improved, highly polished final version of the career plan."""
         intent="FINAL_PLAN",
         payload={"final_plan": response.content}
     )
+
+# Alias to maintain backward compatibility if needed
+review_plan = review_and_refine_plan
