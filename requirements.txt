@@ -1,7 +1,9 @@
 streamlit
 langchain
 langchain-groq
+langchain-community
 chromadb
 python-dotenv
 pydantic
 huggingface-hub
+sentence-transformers
