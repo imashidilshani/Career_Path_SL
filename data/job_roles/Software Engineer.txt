@@ -1,0 +1,234 @@
+Software Engineer
+
+Overview
+
+A Software Engineer is a professional who designs, develops, tests, deploys, and maintains software applications to solve real-world problems. Software engineers apply engineering principles, programming knowledge, and problem-solving skills to build reliable, efficient, and scalable software systems. They work in various industries including finance, healthcare, education, e-commerce, telecommunications, and government organizations.
+
+Software engineering is one of the most popular career paths for Information Technology undergraduates because it provides opportunities to work on web applications, mobile applications, desktop software, enterprise systems, cloud platforms, and artificial intelligence solutions.
+
+Key Responsibilities
+
+- Analyze user requirements and business needs.
+- Design software architecture and system components.
+- Develop software applications using appropriate programming languages.
+- Write clean, reusable, and maintainable code.
+- Test software to identify and fix bugs.
+- Collaborate with UI/UX designers, testers, project managers, and other developers.
+- Maintain and improve existing software systems.
+- Document software features and technical processes.
+- Participate in code reviews and team meetings.
+- Ensure software security, performance, and scalability.
+
+Required Technical Skills
+
+Programming Languages:
+- Java
+- Python
+- JavaScript
+- C#
+- C++
+- PHP
+- TypeScript
+
+Frontend Technologies:
+- HTML
+- CSS
+- JavaScript
+- React
+- Angular
+- Vue.js
+
+Backend Technologies:
+- Spring Boot
+- Node.js
+- Express.js
+- Django
+- Flask
+- ASP.NET Core
+- Laravel
+
+Databases:
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQL Server
+- Oracle Database
+
+Version Control:
+- Git
+- GitHub
+- GitLab
+
+Development Tools:
+- Visual Studio Code
+- IntelliJ IDEA
+- Eclipse
+- Postman
+- Docker
+- Kubernetes
+
+Cloud Platforms:
+- AWS
+- Microsoft Azure
+- Google Cloud Platform
+
+Required Soft Skills
+
+A successful software engineer should possess both technical and interpersonal skills.
+
+Important soft skills include:
+
+- Communication
+- Teamwork
+- Critical thinking
+- Problem solving
+- Time management
+- Creativity
+- Adaptability
+- Leadership
+- Continuous learning
+- Attention to detail
+
+Career Roadmap
+
+Year 1
+
+- Learn programming fundamentals.
+- Understand algorithms and data structures.
+- Practice solving coding problems.
+
+Year 2
+
+- Learn web development.
+- Build CRUD applications.
+- Learn databases and SQL.
+- Use Git and GitHub.
+
+Year 3
+
+- Learn backend development.
+- Study software architecture.
+- Build full-stack applications.
+- Learn REST APIs.
+- Complete internships.
+
+Year 4
+
+- Learn cloud computing.
+- Learn Docker.
+- Learn CI/CD.
+- Build large portfolio projects.
+- Prepare for technical interviews.
+
+After Graduation
+
+- Junior Software Engineer
+- Software Engineer
+- Senior Software Engineer
+- Technical Lead
+- Software Architect
+- Engineering Manager
+
+Recommended Certifications
+
+- Oracle Certified Java Developer
+- Microsoft Azure Fundamentals (AZ-900)
+- AWS Certified Cloud Practitioner
+- Meta Front-End Developer Professional Certificate
+- Google IT Automation with Python
+- IBM Full Stack Software Developer Professional Certificate
+
+Portfolio Projects
+
+Students should develop projects such as:
+
+- Student Management System
+- Online Shopping System
+- Hotel Reservation System
+- Hospital Management System
+- Expense Tracker
+- Learning Management System
+- AI Chatbot
+- Personal Portfolio Website
+
+A strong GitHub profile should contain multiple projects demonstrating different technologies and coding practices.
+
+Internship Preparation
+
+Before applying for internships, students should:
+
+- Create a professional CV.
+- Build an attractive LinkedIn profile.
+- Upload projects to GitHub.
+- Learn Git workflows.
+- Practice coding interview questions.
+- Understand object-oriented programming concepts.
+- Build REST API projects.
+- Practice database design.
+
+Interview Preparation
+
+Common interview topics include:
+
+- Object-Oriented Programming
+- Data Structures
+- Algorithms
+- SQL Queries
+- REST APIs
+- Design Patterns
+- Software Development Life Cycle
+- Git and GitHub
+- Java or Python programming
+- Problem-solving questions
+
+Practice platforms:
+
+- LeetCode
+- HackerRank
+- Codewars
+- GeeksforGeeks
+
+Job Opportunities in Sri Lanka
+
+Software Engineers are employed by:
+
+- Virtusa
+- WSO2
+- IFS
+- Sysco LABS
+- MillenniumIT ESP
+- 99X
+- Zone24x7
+- Surge Global
+- Creative Software
+- Calcey Technologies
+
+Career Progression
+
+Intern Software Engineer
+↓
+
+Associate Software Engineer
+↓
+
+Software Engineer
+↓
+
+Senior Software Engineer
+↓
+
+Technical Lead
+↓
+
+Software Architect
+↓
+
+Engineering Manager
+
+Average Daily Activities
+
+A software engineer typically spends time attending meetings, writing code, fixing bugs, reviewing pull requests, testing applications, updating documentation, and collaborating with team members using Agile methodologies.
+
+Summary
+
+Software Engineering is a rewarding career path that combines creativity, logical thinking, and technical expertise. IT undergraduates should continuously improve their programming skills, build practical projects, contribute to GitHub, complete internships, and stay updated with modern technologies. A combination of strong technical knowledge, effective communication, and lifelong learning will help students become successful software engineers in Sri Lanka and internationally.

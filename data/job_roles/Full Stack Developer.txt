@@ -1,0 +1,290 @@
+Full Stack Developer
+
+Overview
+
+A Full Stack Developer is a software professional who develops both the frontend (client-side) and backend (server-side) of web applications. Full Stack Developers have a broad understanding of web technologies and can build complete applications from user interface design to database management and server deployment.
+
+This career is ideal for IT undergraduates who enjoy working on different parts of an application rather than specializing in only frontend or backend development. Full Stack Developers are highly valued because they can contribute to every stage of software development.
+
+Key Responsibilities
+
+- Design and develop responsive web applications.
+- Create attractive and user-friendly interfaces.
+- Develop backend services and APIs.
+- Connect frontend applications with backend systems.
+- Design and manage databases.
+- Implement user authentication and authorization.
+- Test, debug, and maintain applications.
+- Optimize application performance.
+- Collaborate with designers, developers, and clients.
+- Deploy applications to cloud platforms.
+
+Frontend Technologies
+
+A Full Stack Developer should understand modern frontend development technologies, including:
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React.js
+- Angular
+- Vue.js
+- Bootstrap
+- Tailwind CSS
+
+Backend Technologies
+
+Common backend frameworks include:
+
+- Node.js
+- Express.js
+- Spring Boot
+- Django
+- Flask
+- ASP.NET Core
+- Laravel
+
+Database Technologies
+
+Developers should understand both relational and NoSQL databases.
+
+Relational Databases
+
+- MySQL
+- PostgreSQL
+- SQL Server
+
+NoSQL Databases
+
+- MongoDB
+- Firebase Firestore
+
+Programming Languages
+
+Common programming languages include:
+
+- JavaScript
+- TypeScript
+- Java
+- Python
+- C#
+- PHP
+
+Version Control
+
+Every Full Stack Developer should know:
+
+- Git
+- GitHub
+- GitLab
+
+Cloud and DevOps Tools
+
+Modern Full Stack Developers should understand:
+
+- Docker
+- Kubernetes (basic knowledge)
+- AWS
+- Microsoft Azure
+- Google Cloud Platform
+- GitHub Actions
+- CI/CD pipelines
+
+Required Technical Skills
+
+- Frontend development
+- Backend development
+- REST API development
+- Database management
+- Authentication and authorization
+- Object-Oriented Programming
+- MVC architecture
+- JSON and HTTP
+- API testing with Postman
+- Responsive web design
+- Basic cybersecurity concepts
+
+Required Soft Skills
+
+Successful Full Stack Developers should have:
+
+- Communication skills
+- Team collaboration
+- Problem-solving ability
+- Creativity
+- Critical thinking
+- Time management
+- Adaptability
+- Continuous learning
+- Leadership potential
+- Attention to detail
+
+Career Roadmap
+
+Year 1
+
+- Learn programming fundamentals.
+- Learn HTML and CSS.
+- Understand basic JavaScript.
+- Practice problem solving.
+
+Year 2
+
+- Learn responsive web design.
+- Study React.js or Angular.
+- Learn Git and GitHub.
+- Build small web applications.
+- Learn SQL databases.
+
+Year 3
+
+- Learn backend development using Node.js, Spring Boot, or Django.
+- Build REST APIs.
+- Connect frontend with backend.
+- Learn MongoDB and PostgreSQL.
+- Develop full-stack CRUD applications.
+
+Year 4
+
+- Learn cloud deployment.
+- Study Docker and CI/CD.
+- Build large real-world projects.
+- Complete internships.
+- Prepare technical portfolios.
+- Practice coding interviews.
+
+After Graduation
+
+Career progression may follow this path:
+
+Intern Full Stack Developer
+
+↓
+
+Junior Full Stack Developer
+
+↓
+
+Full Stack Developer
+
+↓
+
+Senior Full Stack Developer
+
+↓
+
+Technical Lead
+
+↓
+
+Software Architect
+
+↓
+
+Engineering Manager
+
+Recommended Certifications
+
+Students can strengthen their careers with certifications such as:
+
+- Meta Front-End Developer Professional Certificate
+- IBM Full Stack Software Developer Professional Certificate
+- AWS Certified Cloud Practitioner
+- Microsoft Azure Fundamentals (AZ-900)
+- Google Cloud Digital Leader
+- Oracle Java Certification
+
+Portfolio Projects
+
+Recommended portfolio projects include:
+
+- Online Shopping System
+- Hospital Management System
+- Hotel Reservation System
+- Student Management System
+- Personal Finance Tracker
+- Online Food Ordering System
+- Event Management System
+- Library Management System
+- E-Learning Platform
+- AI Chatbot
+
+Each project should include:
+
+- Responsive frontend
+- Backend API
+- Database
+- Authentication
+- CRUD operations
+- GitHub repository
+- Deployment link
+
+Internship Preparation
+
+Before applying for internships:
+
+- Create a professional CV.
+- Maintain an updated LinkedIn profile.
+- Upload all projects to GitHub.
+- Learn Git workflows.
+- Understand Agile software development.
+- Practice technical interview questions.
+- Learn REST API development.
+- Gain experience with cloud deployment.
+
+Interview Preparation
+
+Frequently asked interview topics include:
+
+- HTML, CSS, JavaScript
+- React.js concepts
+- Backend frameworks
+- REST APIs
+- Authentication using JWT
+- Database normalization
+- SQL queries
+- MongoDB operations
+- Object-Oriented Programming
+- Design Patterns
+- Git commands
+- HTTP methods
+- Software Development Life Cycle
+- Basic cloud computing
+
+Practice Platforms
+
+Students can improve coding skills through:
+
+- LeetCode
+- HackerRank
+- Codewars
+- GeeksforGeeks
+- Frontend Mentor
+
+Job Opportunities in Sri Lanka
+
+Many Sri Lankan software companies recruit Full Stack Developers, including:
+
+- Virtusa
+- WSO2
+- IFS
+- Sysco LABS
+- 99X
+- Zone24x7
+- Creative Software
+- Surge Global
+- Calcey Technologies
+- MillenniumIT ESP
+
+Average Daily Activities
+
+A Full Stack Developer typically spends time designing user interfaces, developing backend APIs, fixing bugs, reviewing code, writing documentation, attending Agile meetings, deploying applications, and collaborating with cross-functional teams.
+
+Future Trends
+
+The demand for Full Stack Developers continues to grow due to increasing adoption of cloud computing, artificial intelligence, microservices, serverless architectures, and modern JavaScript frameworks. Developers who continuously update their skills will have excellent career opportunities both in Sri Lanka and internationally.
+
+Summary
+
+Full Stack Development is one of the most versatile and rewarding careers in the IT industry. It combines frontend development, backend programming, database management, cloud deployment, and software engineering principles. Students should build practical projects, contribute to GitHub, complete internships, earn relevant certifications, and continuously improve their technical and communication skills to become successful Full Stack Developers.

@@ -1,0 +1,656 @@
+Resume Writing Guide for IT Undergraduates
+
+Overview
+
+A resume is a professional document that presents a person's education, technical skills, projects, achievements, and experiences to potential employers. For IT undergraduates, a well-designed resume is an important tool for obtaining internships, graduate positions, and entry-level technology jobs.
+
+A strong IT resume should clearly demonstrate technical abilities, problem-solving skills, software projects, teamwork experience, and continuous learning. Recruiters often spend only a few seconds reviewing resumes, so the document should be clear, structured, and focused on relevant skills.
+
+Modern technology companies commonly use Applicant Tracking Systems (ATS) to automatically scan resumes. Therefore, IT students should create ATS-friendly resumes that include relevant keywords and proper formatting.
+
+Purpose of a Resume
+
+A resume helps employers understand:
+
+- Who you are.
+- What technical skills you have.
+- What projects you have completed.
+- What technologies you can use.
+- What experience you gained.
+- How you can contribute to an organization.
+
+For IT students, a resume should highlight:
+
+- Programming skills.
+- Software projects.
+- Database knowledge.
+- Development tools.
+- Internships.
+- Certifications.
+- Academic achievements.
+
+
+ATS-Friendly Resume
+
+What is ATS?
+
+Applicant Tracking System (ATS) is software used by companies to automatically filter and rank job applications.
+
+ATS systems search for:
+
+- Technical keywords.
+- Job-related skills.
+- Education details.
+- Experience information.
+- Certifications.
+
+A resume that is not ATS-friendly may be rejected before a human recruiter reviews it.
+
+ATS Resume Guidelines:
+
+Use:
+
+- Simple formatting.
+- Clear headings.
+- Standard fonts.
+- Relevant keywords.
+- Professional file names.
+
+Avoid:
+
+- Complex designs.
+- Excessive graphics.
+- Images.
+- Tables with important information.
+- Unnecessary personal details.
+
+
+Recommended IT Resume Structure
+
+An IT undergraduate resume should contain:
+
+1. Contact Information
+
+Include:
+
+- Full name
+- Professional email address
+- Phone number
+- LinkedIn profile
+- GitHub profile
+- Portfolio website
+
+
+Example:
+
+Name:
+John Smith
+
+Email:
+johnsmith@email.com
+
+LinkedIn:
+linkedin.com/in/johnsmith
+
+GitHub:
+github.com/johnsmith
+
+
+Avoid:
+
+- Nicknames
+- Unprofessional email addresses
+- Unnecessary personal information
+
+
+2. Professional Summary
+
+A professional summary is a short introduction explaining your background, skills, and career goals.
+
+A good IT summary should include:
+
+- Current education.
+- Technical interests.
+- Main skills.
+- Career objective.
+
+Example:
+
+"Computer Science undergraduate with experience in web development, database management, and software engineering projects. Skilled in Java, Python, SQL, and modern development frameworks. Interested in building scalable software solutions and gaining industry experience."
+
+
+3. Technical Skills Section
+
+This section highlights technology knowledge.
+
+Organize skills into categories.
+
+Programming Languages:
+
+- Java
+- Python
+- C#
+- JavaScript
+- PHP
+
+Frontend Technologies:
+
+- HTML
+- CSS
+- React
+- Angular
+
+Backend Technologies:
+
+- Spring Boot
+- Node.js
+- REST APIs
+
+Databases:
+
+- MySQL
+- MongoDB
+- PostgreSQL
+
+Cloud:
+
+- AWS
+- Azure
+
+Tools:
+
+- Git
+- Docker
+- VS Code
+
+
+4. Education Section
+
+Include:
+
+- Degree program.
+- University.
+- Academic achievements.
+- Relevant coursework.
+
+Example:
+
+Bachelor of Information Technology
+
+University Name
+
+Relevant Subjects:
+
+- Software Engineering
+- Database Management
+- Artificial Intelligence
+- Data Structures
+- Cloud Computing
+
+
+5. Projects Section
+
+For IT students, projects are extremely important because they demonstrate practical skills.
+
+Each project should include:
+
+Project Name
+
+Description
+
+Technologies Used
+
+Your Contribution
+
+Results
+
+
+Example:
+
+Personal Finance Tracker Application
+
+Description:
+
+Developed a web-based application to manage personal income and expenses.
+
+Technologies:
+
+- React
+- Spring Boot
+- MySQL
+
+Contribution:
+
+- Designed database structure.
+- Developed REST APIs.
+- Implemented authentication system.
+
+
+Good Project Descriptions
+
+Weak:
+
+"Created a website."
+
+Strong:
+
+"Developed a responsive e-commerce web application using React and Spring Boot with user authentication, product management, and REST API integration."
+
+
+6. Internship Experience
+
+For internship experience include:
+
+- Company name.
+- Job role.
+- Duration.
+- Responsibilities.
+- Technologies used.
+
+Example:
+
+Software Engineering Intern
+
+ABC Technologies
+
+June 2026 - December 2026
+
+Responsibilities:
+
+- Developed backend APIs using Java Spring Boot.
+- Designed database queries using MySQL.
+- Fixed software bugs.
+- Participated in Agile development meetings.
+
+
+7. Certifications
+
+Include relevant certifications.
+
+Examples:
+
+Programming:
+
+- Java Certification
+- Python Certification
+
+Cloud:
+
+- AWS Cloud Practitioner
+- Azure Fundamentals
+
+AI:
+
+- Machine Learning Certification
+- Generative AI Certification
+
+Cybersecurity:
+
+- CompTIA Security+
+- CEH
+
+
+8. Achievements and Activities
+
+Include:
+
+- Hackathons.
+- Research projects.
+- University clubs.
+- Leadership roles.
+- Competitions.
+
+Examples:
+
+- Developed AI research project.
+- Participated in cybersecurity competitions.
+- Organized university technology events.
+
+
+IT Resume Keywords
+
+Recruiters search for specific keywords.
+
+Software Developer Keywords:
+
+- Java
+- Python
+- Spring Boot
+- REST API
+- SQL
+- Git
+- Agile
+- Software Development
+
+
+AI Engineer Keywords:
+
+- Machine Learning
+- Python
+- TensorFlow
+- PyTorch
+- NLP
+- RAG
+- LangChain
+- Generative AI
+
+
+Data Scientist Keywords:
+
+- Data Analysis
+- Pandas
+- Statistics
+- Machine Learning
+- SQL
+- Visualization
+
+
+Cybersecurity Keywords:
+
+- Network Security
+- Linux
+- Penetration Testing
+- Vulnerability Assessment
+- SIEM
+
+
+Cloud Engineer Keywords:
+
+- AWS
+- Azure
+- Docker
+- Kubernetes
+- Terraform
+- CI/CD
+
+
+ERP Consultant Keywords:
+
+- SAP
+- ERP
+- Business Processes
+- SQL
+- Requirement Analysis
+
+
+Resume Design Guidelines
+
+Length:
+
+Students:
+
+- 1 page recommended.
+
+Experienced professionals:
+
+- 1-2 pages.
+
+
+Font:
+
+Recommended:
+
+- Arial
+- Calibri
+- Times New Roman
+
+Font size:
+
+- 10-12 pt
+
+
+File Format:
+
+Preferred:
+
+- PDF
+
+File name example:
+
+John_Smith_Software_Engineer_Resume.pdf
+
+
+Common Resume Mistakes
+
+Avoid:
+
+Poor Formatting
+
+A messy resume creates a negative impression.
+
+Generic Descriptions
+
+Avoid:
+
+"I worked on projects."
+
+Use:
+
+"Developed REST APIs using Spring Boot and integrated MySQL database."
+
+
+Too Many Skills
+
+Do not list technologies you cannot explain.
+
+Unnecessary Information:
+
+Avoid:
+
+- Age
+- Religion
+- National identity
+- Personal hobbies unrelated to the job
+
+
+No GitHub or Portfolio
+
+IT students should showcase their practical work.
+
+
+GitHub Portfolio Optimization
+
+A strong GitHub profile improves job opportunities.
+
+Include:
+
+- Clean repositories.
+- Good README files.
+- Project screenshots.
+- Installation instructions.
+- Technology descriptions.
+
+Each project repository should contain:
+
+README.md
+
+Include:
+
+- Project overview.
+- Features.
+- Technologies.
+- Installation steps.
+- Screenshots.
+
+
+LinkedIn Profile Optimization
+
+A professional LinkedIn profile should include:
+
+Profile Picture:
+
+Use a professional photo.
+
+Headline:
+
+Example:
+
+"IT Undergraduate | Software Developer | Java | Python | AI Enthusiast"
+
+
+About Section:
+
+Include:
+
+- Education.
+- Skills.
+- Projects.
+- Career goals.
+
+
+Experience Section:
+
+Add:
+
+- Internships.
+- Projects.
+- Volunteer activities.
+
+
+Skills:
+
+Add:
+
+- Programming languages.
+- Frameworks.
+- Tools.
+- Certifications.
+
+
+Resume Customization
+
+A resume should be customized for each job.
+
+For Software Developer jobs:
+
+Highlight:
+
+- Programming
+- Software projects
+- APIs
+- Databases
+
+
+For AI jobs:
+
+Highlight:
+
+- Machine Learning
+- AI projects
+- Python
+- Data science
+
+
+For ERP jobs:
+
+Highlight:
+
+- Business analysis
+- ERP knowledge
+- SAP
+- Database skills
+
+
+Internship Resume Strategy
+
+IT students applying for internships should focus on:
+
+Academic Projects:
+
+Show practical experience.
+
+Technical Skills:
+
+Show relevant technologies.
+
+Learning Ability:
+
+Show certifications and courses.
+
+Team Experience:
+
+Show university projects and activities.
+
+
+Career-Specific Resume Examples
+
+Software Engineer Resume Focus:
+
+- Programming languages
+- Applications
+- APIs
+- Databases
+
+
+AI Engineer Resume Focus:
+
+- Machine learning projects
+- AI frameworks
+- Research work
+
+
+Cybersecurity Resume Focus:
+
+- Security labs
+- CTF competitions
+- Security tools
+
+
+Cloud Resume Focus:
+
+- Cloud projects
+- Docker
+- CI/CD
+
+
+ERP Consultant Resume Focus:
+
+- SAP knowledge
+- Business processes
+- Requirement analysis
+
+
+Resume Improvement Checklist
+
+Before submitting a resume check:
+
+Technical:
+
+✓ Skills match job requirements.
+
+✓ Projects are clearly explained.
+
+✓ Technologies are mentioned.
+
+✓ GitHub profile is included.
+
+
+Professional:
+
+✓ No grammar mistakes.
+
+✓ Professional email address.
+
+✓ Clear formatting.
+
+✓ Updated information.
+
+
+ATS:
+
+✓ Contains job keywords.
+
+✓ Uses standard headings.
+
+✓ Saved as PDF.
+
+✓ Easy to read.
+
+
+Summary
+
+A professional resume is one of the most important career tools for IT undergraduates. A strong resume should highlight technical skills, practical projects, internships, certifications, and achievements.
+
+Students should create ATS-friendly resumes, maintain GitHub portfolios, optimize LinkedIn profiles, and customize resumes according to job roles.
+
+A well-prepared resume increases opportunities for internships, interviews, and technology careers.

@@ -1,0 +1,603 @@
+Business Analyst
+
+Overview
+
+A Business Analyst (BA) is an IT professional who connects business needs with technology solutions. Business Analysts understand organizational problems, gather requirements from stakeholders, analyze business processes, and help development teams create software solutions that provide business value.
+
+Business Analysts play an important role in software projects because they ensure that technical teams understand what users and organizations actually need. They work between business users, customers, project managers, developers, designers, and testers.
+
+In modern IT organizations, Business Analysts help improve business processes, identify opportunities, define software requirements, and support successful project delivery.
+
+For IT undergraduates, Business Analysis is a valuable career path because it combines technical knowledge, communication skills, business understanding, software engineering concepts, and analytical thinking.
+
+Key Responsibilities
+
+A Business Analyst is responsible for:
+
+- Understanding business problems.
+- Gathering requirements from stakeholders.
+- Analyzing existing business processes.
+- Preparing requirement documents.
+- Creating user stories.
+- Defining software features.
+- Communicating with development teams.
+- Supporting software testing activities.
+- Validating implemented solutions.
+- Identifying process improvements.
+- Managing requirement changes.
+- Creating business reports.
+- Supporting project decision-making.
+
+Role of a Business Analyst in Software Development
+
+Business Analysts work throughout the Software Development Life Cycle (SDLC).
+
+Requirement Phase:
+
+Responsibilities:
+
+- Understand customer needs.
+- Identify business goals.
+- Gather requirements.
+- Analyze problems.
+
+Design Phase:
+
+Responsibilities:
+
+- Explain requirements to developers.
+- Review system designs.
+- Provide business feedback.
+
+Development Phase:
+
+Responsibilities:
+
+- Clarify requirements.
+- Support developers.
+- Manage requirement changes.
+
+Testing Phase:
+
+Responsibilities:
+
+- Review test cases.
+- Perform requirement validation.
+- Support User Acceptance Testing (UAT).
+
+Deployment Phase:
+
+Responsibilities:
+
+- Confirm business requirements are satisfied.
+- Support users during system implementation.
+
+
+Requirement Engineering
+
+Requirement engineering is the process of identifying, documenting, and managing software requirements.
+
+Types of Requirements:
+
+Functional Requirements
+
+Describe what a system should do.
+
+Examples:
+
+- User registration
+- Login functionality
+- Payment processing
+- Report generation
+
+
+Non-Functional Requirements
+
+Describe system quality attributes.
+
+Examples:
+
+- Performance
+- Security
+- Reliability
+- Scalability
+- Usability
+
+
+Requirement Gathering Techniques
+
+Business Analysts collect requirements using different methods.
+
+Interviews:
+
+Direct discussions with stakeholders.
+
+Workshops:
+
+Group sessions to identify requirements.
+
+Surveys:
+
+Collect information from many users.
+
+Observation:
+
+Understanding existing business processes.
+
+Document Analysis:
+
+Reviewing existing documents and systems.
+
+
+Requirement Documentation
+
+Business Analysts create different documents.
+
+Business Requirement Document (BRD)
+
+Describes business objectives and high-level requirements.
+
+Software Requirement Specification (SRS)
+
+Defines detailed system requirements.
+
+User Stories
+
+Describe features from the user's perspective.
+
+Example:
+
+"As a customer, I want to track my order so that I know the delivery status."
+
+Acceptance Criteria
+
+Defines conditions that determine whether a feature is complete.
+
+
+Business Process Modeling
+
+Business Analysts analyze and improve business processes.
+
+Important concepts:
+
+Business Process Mapping
+
+Visual representation of business activities.
+
+Process Improvement
+
+Finding ways to make processes faster and more efficient.
+
+Business Process Model and Notation (BPMN)
+
+A standard method for representing business workflows.
+
+
+Technical Skills
+
+Business Analysts require technical understanding.
+
+Database Knowledge:
+
+Important concepts:
+
+- SQL queries
+- Database relationships
+- Data validation
+
+Database systems:
+
+- MySQL
+- PostgreSQL
+- Oracle
+- SQL Server
+
+
+Programming Knowledge:
+
+Business Analysts do not always write software, but basic programming knowledge is useful.
+
+Important languages:
+
+- Python basics
+- SQL
+- Java basics
+- JavaScript basics
+
+
+API Understanding:
+
+Business Analysts should understand:
+
+- REST APIs
+- JSON data
+- System integration
+- API documentation
+
+
+Software Development Knowledge:
+
+Important concepts:
+
+- SDLC
+- Agile development
+- Software testing
+- Version control basics
+
+
+Business Analysis Tools
+
+Documentation Tools:
+
+- Microsoft Word
+- Google Docs
+- Confluence
+
+Project Management Tools:
+
+- Jira
+- Trello
+- Azure DevOps
+
+Diagram Tools:
+
+- Draw.io
+- Lucidchart
+- Microsoft Visio
+
+Modeling Tools:
+
+- Enterprise Architect
+- Visual Paradigm
+
+
+Agile Methodology
+
+Most modern IT companies use Agile development.
+
+Important Agile concepts:
+
+Scrum:
+
+A framework for managing software development.
+
+Roles:
+
+- Product Owner
+- Scrum Master
+- Development Team
+
+Activities:
+
+- Sprint planning
+- Daily stand-up meetings
+- Sprint review
+- Retrospective
+
+
+Business Analyst Role in Agile
+
+A Business Analyst helps by:
+
+- Creating user stories.
+- Managing requirements.
+- Communicating with stakeholders.
+- Supporting product owners.
+- Clarifying features.
+
+
+Data Analysis Skills
+
+Business Analysts use data to make decisions.
+
+Important skills:
+
+- Data collection
+- Data analysis
+- Reporting
+- Visualization
+
+Tools:
+
+- Excel
+- Power BI
+- Tableau
+- SQL
+
+
+Required Technical Skills
+
+A professional Business Analyst should know:
+
+Business Skills:
+
+- Process analysis
+- Requirement gathering
+- Business strategy
+
+Documentation:
+
+- BRD
+- SRS
+- User stories
+- Acceptance criteria
+
+Technical Skills:
+
+- SQL
+- Database concepts
+- API concepts
+- Software development basics
+
+Tools:
+
+- Jira
+- Confluence
+- Draw.io
+- Power BI
+
+Development Knowledge:
+
+- SDLC
+- Agile
+- Testing concepts
+
+
+Required Soft Skills
+
+Important soft skills include:
+
+Communication Skills
+
+Business Analysts must communicate with technical and non-technical people.
+
+Analytical Thinking
+
+Ability to analyze problems and identify solutions.
+
+Problem Solving
+
+Ability to understand business challenges.
+
+Negotiation Skills
+
+Ability to manage different stakeholder expectations.
+
+Leadership
+
+Ability to guide teams toward successful solutions.
+
+Documentation Skills
+
+Ability to create clear and understandable documents.
+
+
+Career Roadmap
+
+Beginner Level
+
+Learn:
+
+- Business analysis fundamentals
+- SDLC concepts
+- Requirement gathering
+- Documentation skills
+
+Practice:
+
+- Writing user stories
+- Creating requirement documents
+
+
+Intermediate Level
+
+Learn:
+
+- Agile methodology
+- Business process modeling
+- Data analysis
+- SQL
+
+Build:
+
+- Business analysis case studies
+- Process improvement projects
+
+
+Advanced Level
+
+Learn:
+
+- Enterprise analysis
+- Business architecture
+- Product management
+- Digital transformation
+
+Build:
+
+- Large-scale business solutions
+- Strategic analysis projects
+
+
+Career Progression
+
+Business Analyst Intern
+
+↓
+
+Junior Business Analyst
+
+↓
+
+Business Analyst
+
+↓
+
+Senior Business Analyst
+
+↓
+
+Lead Business Analyst
+
+↓
+
+Business Consultant
+
+↓
+
+Product Manager
+
+
+Recommended Certifications
+
+Beginner Certifications:
+
+- ECBA (Entry Certificate in Business Analysis)
+- Google Project Management Certificate
+
+Intermediate Certifications:
+
+- CCBA (Certification of Capability in Business Analysis)
+- Agile Analysis Certification
+
+Advanced Certifications:
+
+- CBAP (Certified Business Analysis Professional)
+- PMI Professional in Business Analysis (PMI-PBA)
+
+
+Portfolio Projects
+
+Students should create business analysis projects such as:
+
+1. E-Commerce System Analysis
+
+Skills demonstrated:
+
+- Requirement gathering
+- User stories
+- Process modeling
+
+
+2. Hospital Management System Analysis
+
+Skills demonstrated:
+
+- Business workflows
+- Documentation
+- Stakeholder analysis
+
+
+3. Banking Application Analysis
+
+Skills demonstrated:
+
+- Functional requirements
+- Security requirements
+
+
+4. ERP System Analysis
+
+Skills demonstrated:
+
+- Business process mapping
+- Enterprise solutions
+
+
+5. Mobile Application Requirement Analysis
+
+Skills demonstrated:
+
+- User stories
+- Acceptance criteria
+
+
+Internship Preparation
+
+Before applying for Business Analyst internships, students should:
+
+- Learn requirement engineering.
+- Understand SDLC.
+- Practice writing documentation.
+- Learn Agile methodology.
+- Improve communication skills.
+- Learn basic SQL.
+- Create BA case studies.
+- Understand software projects.
+
+
+Interview Preparation
+
+Common Business Analyst interview topics:
+
+Requirements:
+
+- Functional requirements
+- Non-functional requirements
+- Requirement gathering
+
+Documentation:
+
+- BRD
+- SRS
+- User stories
+
+Agile:
+
+- Scrum
+- Sprint
+- Product backlog
+
+Analysis:
+
+- Business process modeling
+- Problem-solving techniques
+
+Technical:
+
+- SQL
+- APIs
+- Databases
+
+
+Job Opportunities in Sri Lanka
+
+Business Analysts can work in:
+
+- Software companies
+- Banking organizations
+- ERP companies
+- Consulting firms
+- Technology startups
+
+Companies hiring Business Analysts include:
+
+- WSO2
+- Virtusa
+- IFS
+- Sysco LABS
+- 99X
+- Zone24x7
+- MillenniumIT ESP
+- Calcey Technologies
+
+
+Future Trends
+
+Business Analysis is evolving with:
+
+- Artificial Intelligence-powered analysis
+- Digital transformation
+- Data-driven decision making
+- Product management
+- Business automation
+- Enterprise architecture
+
+Business Analysts who combine business knowledge with technology skills will have strong career opportunities in the future.
+
+
+Summary
+
+Business Analysis is an important IT career path focused on understanding business needs and converting them into technology solutions. Business Analysts require strong communication skills, analytical thinking, documentation abilities, and technical knowledge.
+
+IT undergraduates interested in Business Analysis should learn requirement engineering, Agile methodologies, SQL, software development concepts, and business process modeling. Building practical case studies and gaining internship experience will help students become successful Business Analysts.

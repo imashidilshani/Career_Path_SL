@@ -1,0 +1,594 @@
+Cyber Security Analyst
+
+Overview
+
+A Cyber Security Analyst is an IT professional responsible for protecting computer systems, networks, applications, and digital information from cyber threats. Cyber Security Analysts identify security risks, monitor systems for suspicious activities, investigate security incidents, and implement protection measures to prevent unauthorized access and data breaches.
+
+With the rapid growth of digital transformation, organizations are facing increasing cyber threats such as malware attacks, phishing, ransomware, data breaches, and unauthorized access attempts. Cyber Security Analysts play a critical role in maintaining the confidentiality, integrity, and availability of information systems.
+
+Cyber Security is one of the most important career paths for IT undergraduates because every organization requires security professionals to protect their digital infrastructure.
+
+Key Responsibilities
+
+A Cyber Security Analyst is responsible for:
+
+- Monitoring networks and systems for security threats.
+- Detecting suspicious activities and cyber attacks.
+- Investigating security incidents.
+- Performing vulnerability assessments.
+- Analyzing security logs.
+- Implementing security controls.
+- Managing security tools.
+- Responding to cybersecurity incidents.
+- Conducting security audits.
+- Performing penetration testing.
+- Improving organizational security policies.
+- Educating users about security best practices.
+
+Cyber Security Domains
+
+Network Security
+
+Network security focuses on protecting communication networks from unauthorized access and attacks.
+
+Important concepts:
+
+- Firewalls
+- Intrusion Detection Systems (IDS)
+- Intrusion Prevention Systems (IPS)
+- Network monitoring
+- Secure communication protocols
+
+Application Security
+
+Application security focuses on protecting software applications from vulnerabilities.
+
+Important concepts:
+
+- Secure coding practices
+- Vulnerability testing
+- Authentication
+- Authorization
+- Web application security
+
+Cloud Security
+
+Cloud security protects applications and data hosted on cloud platforms.
+
+Important concepts:
+
+- Cloud access control
+- Data encryption
+- Identity management
+- Cloud security monitoring
+
+Information Security
+
+Information security focuses on protecting sensitive data.
+
+Important concepts:
+
+- Confidentiality
+- Integrity
+- Availability
+- Encryption
+- Access management
+
+Security Operations (SOC)
+
+Security Operations Centers monitor and respond to cybersecurity threats.
+
+SOC activities include:
+
+- Threat monitoring
+- Incident response
+- Log analysis
+- Malware investigation
+
+
+Networking Knowledge
+
+Cyber Security Analysts require strong networking knowledge.
+
+Important networking concepts:
+
+- OSI model
+- TCP/IP model
+- IP addressing
+- Subnetting
+- DNS
+- HTTP/HTTPS
+- Network protocols
+- Routing and switching
+
+Important protocols:
+
+- TCP
+- UDP
+- FTP
+- SSH
+- SMTP
+- DHCP
+
+Programming Skills
+
+Cyber Security professionals should understand programming and scripting.
+
+Important languages:
+
+Python
+
+Used for:
+
+- Security automation
+- Network scanning
+- Data analysis
+- Tool development
+
+Bash
+
+Used for:
+
+- Linux administration
+- Security scripts
+
+JavaScript
+
+Useful for:
+
+- Web security testing
+
+SQL
+
+Important for:
+
+- Database security
+- SQL injection testing
+
+
+Operating System Knowledge
+
+Cyber Security Analysts should understand:
+
+Linux:
+
+- Ubuntu
+- Kali Linux
+- CentOS
+
+Windows:
+
+- Windows security
+- Active Directory
+- Group policies
+
+Important concepts:
+
+- File permissions
+- User management
+- System logs
+- Process monitoring
+
+
+Cyber Security Tools
+
+Network Analysis Tools:
+
+Wireshark
+
+Used for analyzing network traffic.
+
+Nmap
+
+Used for network scanning and discovering devices.
+
+Security Monitoring Tools:
+
+- Splunk
+- Wazuh
+- ELK Stack
+
+Vulnerability Assessment Tools:
+
+- Nessus
+- OpenVAS
+
+Penetration Testing Tools:
+
+- Metasploit
+- Burp Suite
+- OWASP ZAP
+
+Password Testing Tools:
+
+- John the Ripper
+- Hashcat
+
+
+Ethical Hacking Skills
+
+Cyber Security Analysts should understand ethical hacking concepts.
+
+Important areas:
+
+Reconnaissance
+
+Collecting information about targets.
+
+Scanning
+
+Identifying systems and vulnerabilities.
+
+Vulnerability Assessment
+
+Finding security weaknesses.
+
+Exploitation
+
+Understanding how attackers use vulnerabilities.
+
+Reporting
+
+Documenting security findings and recommendations.
+
+
+Common Cyber Threats
+
+Malware
+
+Malicious software designed to damage or compromise systems.
+
+Types:
+
+- Viruses
+- Trojans
+- Ransomware
+- Spyware
+
+
+Phishing
+
+Social engineering attacks that attempt to steal sensitive information.
+
+Examples:
+
+- Fake emails
+- Fake login pages
+
+
+Password Attacks
+
+Methods used to compromise passwords.
+
+Examples:
+
+- Brute force attacks
+- Dictionary attacks
+
+
+Network Attacks
+
+Examples:
+
+- Man-in-the-middle attacks
+- Denial of Service attacks
+- Packet sniffing
+
+
+Security Frameworks
+
+Important security frameworks include:
+
+- NIST Cybersecurity Framework
+- ISO 27001
+- CIS Controls
+- OWASP Security Guidelines
+
+
+Required Technical Skills
+
+A professional Cyber Security Analyst should know:
+
+Networking:
+
+- TCP/IP
+- Network protocols
+- Firewalls
+
+Operating Systems:
+
+- Linux
+- Windows administration
+
+Security:
+
+- Threat detection
+- Incident response
+- Vulnerability assessment
+
+Programming:
+
+- Python scripting
+- Bash scripting
+- SQL
+
+Tools:
+
+- Wireshark
+- Nmap
+- SIEM tools
+
+Cloud:
+
+- AWS security
+- Azure security
+
+
+Required Soft Skills
+
+Important soft skills include:
+
+Analytical Thinking
+
+Ability to analyze security events and identify threats.
+
+Problem Solving
+
+Ability to respond quickly to security incidents.
+
+Attention to Detail
+
+Ability to identify small security issues.
+
+Communication
+
+Ability to explain security risks clearly.
+
+Teamwork
+
+Ability to work with IT teams and management.
+
+Continuous Learning
+
+Cyber threats constantly evolve, requiring continuous improvement.
+
+
+Career Roadmap
+
+Beginner Level
+
+Learn:
+
+- Computer networks
+- Operating systems
+- Linux basics
+- Programming fundamentals
+
+Practice:
+
+- Linux commands
+- Networking labs
+- Security concepts
+
+
+Intermediate Level
+
+Learn:
+
+- Ethical hacking
+- Vulnerability assessment
+- Security tools
+- Web application security
+
+Practice:
+
+- Capture The Flag (CTF) challenges
+- Security labs
+- Network analysis
+
+
+Advanced Level
+
+Learn:
+
+- Advanced penetration testing
+- Digital forensics
+- Cloud security
+- Security automation
+- Threat intelligence
+
+Build:
+
+- Security monitoring systems
+- Vulnerability scanners
+- Security automation tools
+
+
+Career Progression
+
+Cyber Security Intern
+
+↓
+
+Junior Security Analyst
+
+↓
+
+Cyber Security Analyst
+
+↓
+
+Security Engineer
+
+↓
+
+Senior Security Analyst
+
+↓
+
+Security Architect
+
+↓
+
+Chief Information Security Officer (CISO)
+
+
+Recommended Certifications
+
+Beginner Certifications:
+
+- CompTIA Security+
+- Google Cybersecurity Certificate
+- Microsoft Security Fundamentals
+
+Intermediate Certifications:
+
+- Certified Ethical Hacker (CEH)
+- CompTIA CySA+
+- GIAC Security Essentials (GSEC)
+
+Advanced Certifications:
+
+- Certified Information Systems Security Professional (CISSP)
+- Offensive Security Certified Professional (OSCP)
+
+
+Portfolio Projects
+
+Students should build cybersecurity projects such as:
+
+1. Network Monitoring System
+
+Skills demonstrated:
+
+- Network analysis
+- Security monitoring
+- Log analysis
+
+
+2. Vulnerability Scanner
+
+Skills demonstrated:
+
+- Python scripting
+- Security testing
+
+
+3. Password Security Checker
+
+Skills demonstrated:
+
+- Cryptography
+- Security practices
+
+
+4. Phishing Detection System
+
+Skills demonstrated:
+
+- Machine learning
+- Threat detection
+
+
+5. Home Security Lab
+
+Skills demonstrated:
+
+- Linux
+- Networking
+- Ethical hacking
+
+
+Internship Preparation
+
+Before applying for cybersecurity internships, students should:
+
+- Learn networking fundamentals.
+- Practice Linux commands.
+- Complete TryHackMe challenges.
+- Learn security tools.
+- Build security projects.
+- Create GitHub repositories.
+- Obtain beginner certifications.
+- Participate in cybersecurity competitions.
+
+
+Interview Preparation
+
+Common cybersecurity interview topics:
+
+Networking:
+
+- OSI model
+- TCP/IP
+- DNS
+- HTTP
+
+Security:
+
+- Authentication
+- Encryption
+- Firewalls
+- Malware
+- Vulnerabilities
+
+Tools:
+
+- Wireshark
+- Nmap
+- SIEM tools
+
+Ethical Hacking:
+
+- Reconnaissance
+- Scanning
+- Vulnerability assessment
+
+Operating Systems:
+
+- Linux commands
+- Windows security
+
+
+Job Opportunities in Sri Lanka
+
+Cyber Security Analysts can work in:
+
+- Banking organizations
+- Telecommunication companies
+- Software companies
+- Government organizations
+- Security consulting companies
+
+Companies and organizations involved in cybersecurity include:
+
+- Dialog Axiata
+- Virtusa
+- WSO2
+- IFS
+- Sysco LABS
+- 99X
+- Sri Lanka CERT
+- Cybersecurity consulting companies
+
+
+Future Trends
+
+Cyber Security is evolving with:
+
+- Artificial Intelligence in security
+- Cloud security
+- Zero Trust architecture
+- Security automation
+- Threat intelligence
+- Privacy protection
+- Security operations automation
+
+Cybersecurity professionals who combine technical skills with AI and cloud knowledge will have strong career opportunities globally.
+
+
+Summary
+
+Cyber Security is a critical IT career path focused on protecting digital systems, networks, and information from cyber threats. Cyber Security Analysts require knowledge of networking, operating systems, programming, security tools, and ethical hacking techniques.
+
+IT undergraduates interested in cybersecurity should develop strong networking skills, practice security labs, participate in competitions, complete certifications, build security projects, and continuously improve their knowledge to become successful cybersecurity professionals.
